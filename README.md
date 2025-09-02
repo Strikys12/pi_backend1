@@ -54,5 +54,5 @@ java -jar target/my-app-1.0-SNAPSHOT.jar
 INTEGRANTES
 Yesenia Tejada García CC 1020446262
 Luisa Fernanda Yepes  CC
-Jefferson Suaza CC
+Jefferson Suaza CC 1111
 Sebastian Alberto Pino CC 1152686743
